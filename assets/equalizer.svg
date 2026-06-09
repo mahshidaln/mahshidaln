@@ -1,0 +1,39 @@
+<svg width="900" height="190" viewBox="0 0 900 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated equalizer</title>
+  <desc id="desc">Animated equalizer bars with the labels AI systems, audio, and evaluation.</desc>
+  <style>
+    .panel { fill: #111827; }
+    .label { font: 700 18px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #cbd5e1; letter-spacing: 2px; }
+    .bar { rx: 7; transform-box: fill-box; transform-origin: 50% 100%; animation: pulse 1.4s ease-in-out infinite; }
+    .bar:nth-of-type(2) { animation-delay: .10s; }
+    .bar:nth-of-type(3) { animation-delay: .24s; }
+    .bar:nth-of-type(4) { animation-delay: .06s; }
+    .bar:nth-of-type(5) { animation-delay: .34s; }
+    .bar:nth-of-type(6) { animation-delay: .16s; }
+    .bar:nth-of-type(7) { animation-delay: .42s; }
+    .bar:nth-of-type(8) { animation-delay: .20s; }
+    .bar:nth-of-type(9) { animation-delay: .02s; }
+    .bar:nth-of-type(10) { animation-delay: .30s; }
+    @keyframes pulse {
+      0%, 100% { transform: scaleY(.36); opacity: .72; }
+      50% { transform: scaleY(1); opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .bar { animation: none; transform: scaleY(.72); }
+    }
+  </style>
+  <rect class="panel" x="28" y="18" width="844" height="154" rx="24"/>
+  <g>
+    <rect class="bar" x="291" y="50" width="16" height="82" fill="#38bdf8"/>
+    <rect class="bar" x="326" y="34" width="16" height="98" fill="#0ea5e9"/>
+    <rect class="bar" x="361" y="66" width="16" height="66" fill="#38bdf8"/>
+    <rect class="bar" x="396" y="42" width="16" height="90" fill="#60a5fa"/>
+    <rect class="bar" x="431" y="58" width="16" height="74" fill="#818cf8"/>
+    <rect class="bar" x="466" y="30" width="16" height="102" fill="#a78bfa"/>
+    <rect class="bar" x="501" y="62" width="16" height="70" fill="#c084fc"/>
+    <rect class="bar" x="536" y="44" width="16" height="88" fill="#e879f9"/>
+    <rect class="bar" x="571" y="72" width="16" height="60" fill="#ec4899"/>
+    <rect class="bar" x="606" y="38" width="16" height="94" fill="#f472b6"/>
+  </g>
+  <text class="label" x="450" y="153" text-anchor="middle">AI SYSTEMS / AUDIO / EVALUATION</text>
+</svg>

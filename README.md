@@ -1,14 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0f172a,45:0ea5e9,100:ec4899&text=Mahshid%20Alinoori&fontColor=ffffff&fontSize=48&fontAlignY=42)
+<h1>Mahshid Alinoori</h1>
 
-```text
-     .        .        .        .
-  .  |  .  .  |  .  .  |  .  .  |
-  |  |  |  |  |  |  |  |  |  |  |
- _|__|__|__|__|__|__|__|__|__|_|_
-   AI SYSTEMS / AUDIO / EVALUATION
-```
+<img src="assets/equalizer.gif" alt="Animated equalizer reading AI systems, audio, evaluation" width="720">
 
 [![Portfolio](https://img.shields.io/badge/portfolio-visit-0f172a?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0ea5e9)](https://mahshidaln.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2563eb)](https://www.linkedin.com/in/mahshid-alinoori/)
@@ -36,16 +30,6 @@ TRACK 03  Foundation models, experiments, and clean ML pipelines
 TRACK 04  Generative audio, music style transfer, and creative AI
 ```
 
-## Equalizer
-
-```text
-AI Systems       [#########-] 90%
-Evaluation       [#########-] 90%
-Research Eng     [########--] 85%
-Creative Audio   [########--] 85%
-Product Sense    [########--] 80%
-```
-
 ## Studio Board
 
 | Channel | Signal |
@@ -59,8 +43,6 @@ Product Sense    [########--] 80%
 ## GitHub Pulse
 
 <div align="center">
-
-<!-- ![Mahshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahshidaln&show_icons=true&hide_border=true&title_color=38bdf8&icon_color=ec4899&text_color=e5e7eb&bg_color=111827) -->
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahshidaln&bg_color=111827&color=e5e7eb&line=38bdf8&point=ec4899&area=true&hide_border=true)
 
