@@ -2,14 +2,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0f172a,45:0ea5e9,100:ec4899&text=Mahshid%20Alinoori&fontColor=ffffff&fontSize=48&fontAlignY=42)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2400&pause=750&color=38BDF8&center=true&vCenter=true&width=850&lines=LLMs+%2B+Agentic+AI+%2B+Evaluation)](https://git.io/typing-svg)
-
 ```text
      .        .        .        .
   .  |  .  .  |  .  .  |  .  .  |
   |  |  |  |  |  |  |  |  |  |  |
  _|__|__|__|__|__|__|__|__|__|_|_
-        AI SYSTEMS / AUDIO / EVALUATION
+   AI SYSTEMS / AUDIO / EVALUATION
 ```
 
 [![Portfolio](https://img.shields.io/badge/portfolio-visit-0f172a?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0ea5e9)](https://mahshidaln.github.io/)
@@ -62,7 +60,7 @@ Product Sense    [########--] 80%
 
 <div align="center">
 
-![Mahshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahshidaln&show_icons=true&hide_border=true&title_color=38bdf8&icon_color=ec4899&text_color=e5e7eb&bg_color=111827)
+<!-- ![Mahshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahshidaln&show_icons=true&hide_border=true&title_color=38bdf8&icon_color=ec4899&text_color=e5e7eb&bg_color=111827) -->
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahshidaln&bg_color=111827&color=e5e7eb&line=38bdf8&point=ec4899&area=true&hide_border=true)
 
