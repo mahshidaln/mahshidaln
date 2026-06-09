@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0f172a,45:0ea5e9,100:ec4899&text=Mahshid%20Alinoori&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=ML%20Engineer%20building%20AI%20systems%20with%20a%20creative%20signal&descAlignY=64&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0f172a,45:0ea5e9,100:ec4899&text=Mahshid%20Alinoori&fontColor=ffffff&fontSize=48&fontAlignY=42)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2400&pause=750&color=38BDF8&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;LLMs+%2B+Agentic+AI+%2B+Evaluation;Generative+AI+with+a+music+brain;Research+ideas+to+real+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2400&pause=750&color=38BDF8&center=true&vCenter=true&width=850&lines=LLMs+%2B+Agentic+AI+%2B+Evaluation)](https://git.io/typing-svg)
 
 ```text
      .        .        .        .
@@ -28,15 +28,6 @@ signal chain
 
 research idea -> clean pipeline -> evaluated system -> real-world use
 ```
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=mahshidaln&style=for-the-badge&color=ec4899)
-![Focus](https://img.shields.io/badge/focus-LLMs%20%2B%20AI%20systems-0ea5e9?style=for-the-badge)
-![Mode](https://img.shields.io/badge/mode-building%20%2B%20experimenting-9333ea?style=for-the-badge)
-![Audio](https://img.shields.io/badge/audio-generative%20music-111827?style=for-the-badge&logo=applemusic&logoColor=ec4899)
-
-</div>
 
 ## Now Playing
 
