@@ -46,6 +46,4 @@ TRACK 04  Generative audio, music style transfer, and creative AI
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahshidaln&bg_color=111827&color=e5e7eb&line=38bdf8&point=ec4899&area=true&hide_border=true)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:ec4899,50:0ea5e9,100:0f172a)
-
 </div>
