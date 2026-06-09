@@ -2,7 +2,7 @@
 
 <h1>Mahshid Alinoori</h1>
 
-<img src="assets/equalizer.gif" alt="Animated equalizer reading AI systems, audio, evaluation" width="720">
+<img src="assets/equalizer.svg" alt="Animated equalizer reading AI systems, audio, evaluation" width="720">
 
 [![Portfolio](https://img.shields.io/badge/portfolio-visit-0f172a?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0ea5e9)](https://mahshidaln.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2563eb)](https://www.linkedin.com/in/mahshid-alinoori/)
